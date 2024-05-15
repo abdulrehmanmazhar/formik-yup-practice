@@ -1,0 +1,17 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+.form-group{
+  margin: .5rem;
+  padding: 1rem;
+  border-radius: 1rem;
+  background-color: gainsboro;
+}
+form{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
